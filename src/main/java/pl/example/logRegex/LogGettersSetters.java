@@ -26,8 +26,6 @@ public class LogGettersSetters {
 	private String destIP;
 	private String httpReferrer;
 	
-	
-	
 
 	public String getSysLogTimeStamp1() {
 		return sysLogTimeStamp1;
